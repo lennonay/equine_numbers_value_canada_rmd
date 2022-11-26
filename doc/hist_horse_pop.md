@@ -34,7 +34,8 @@ create this report can be found here:
 
 ## Results
 
-![](hist_horse_pop_files/figure-gfm/plot%20horses-1.png)<!-- -->
+<img src="hist_horse_pop_files/figure-gfm/plot horses-1.png" alt="Figure 1. Horse populations for all provinces in Canada between 1940 - 1972." width="100%" />
+
 Figure 1. Horse populations for all provinces in Canada between 1940 -
 1972.
 
@@ -65,7 +66,7 @@ Table 1. Horse population in Canada
 
 Below we zoom in and look at the province of Quebec:
 
-![](hist_horse_pop_files/figure-gfm/plot%20province-1.png)<!-- -->
+<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2. Horse populations for `r params$province` between 1940 - 1972." width="100%" />
 
 Figure 2. Horse populations for Quebec between 1940 - 1972.
 
