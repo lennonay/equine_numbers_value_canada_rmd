@@ -26,9 +26,9 @@ two sources were used:
 
 ## Methods
 
-The R programming language R Core Team (2019) and the following R
-packages were used to perform the analysis: knitr Xie (2014) and
-tidyverse Wickham (2017). The code used to perform the analysis and
+The R programming language (R Core Team 2019) and the following R
+packages were used to perform the analysis: knitr (Xie 2014) and
+tidyverse (Wickham 2017). The code used to perform the analysis and
 create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
@@ -47,7 +47,7 @@ visualization would be car sales per year for each Province over the
 time period visualised above to further support this hypothesis.
 
 Next we look at the range of the number horses for each provinces at any
-time point between  - -:
+time point between 1906 - 1973:
 
 | Province             | Maximum | Minimum |
 |:---------------------|--------:|--------:|
